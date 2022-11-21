@@ -1,0 +1,38 @@
+.logo {
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+    border-style: groove;
+    border-width: 7px;
+    border-color: indigo;
+}
+
+.nome {
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+.inicioTexto {
+    font-size: large;
+}
+
+.imgCv {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.main {
+    color: red;
+    font-size: x-large;
+}
+
+.sub {
+    font-size: x-large;
+}
+
+.sub2 {
+    font-weight: lighter;
+    font-style: italic;
+    font-size: x-large;
+}
